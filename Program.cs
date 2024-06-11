@@ -11,33 +11,38 @@ bool play = true;
     
     void playGame()
     {
-        Loop(pays, capitale);
+        Loop();
     }
 
-    void Loop(string[] pays, string[] capitale)
+    void Loop()
     {
         while ( play )
         {
-            for (int i = 0; i < pays.Length; i++)
-            {
-                Console.WriteLine($"Quels est la capitale du pays :{pays[i]}");
-                string rep = Console.ReadLine();
-
-                if (rep == capitale[i])
-                {
-                    Console.WriteLine("Bravo");
-                    bonneReponse++;
-                }
-                else
-                {
-                    Console.WriteLine($"Mauvaise réponse. La réponse était {capitale[i]}");
-                }
-
-            }
-            Win(bonneReponse);
-            Replay();
+            LoadAnswer(pays, capitale);
         }
         
+    }
+
+    void LoadAnswer(string[] pays, string[] capitale)
+    {
+        for (int i = 0; i < pays.Length; i++)
+        {
+            Console.WriteLine($"Quels est la capitale du pays :{pays[i]}");
+            string rep = Console.ReadLine();
+
+            if (rep == capitale[i])
+            {
+                Console.WriteLine("Bravo");
+                bonneReponse++;
+            }
+            else
+            {
+                Console.WriteLine($"Mauvaise réponse. La réponse était {capitale[i]}");
+            }
+
+        }
+        Win(bonneReponse);
+        Replay();
     }
 
     static void Win(int reponseBonne)
