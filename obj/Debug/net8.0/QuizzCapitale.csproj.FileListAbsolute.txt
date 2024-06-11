@@ -12,3 +12,4 @@ D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\refint\QuizzCapitale
 D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.pdb
 D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.genruntimeconfig.cache
 D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\ref\QuizzCapitale.dll
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.sourcelink.json
