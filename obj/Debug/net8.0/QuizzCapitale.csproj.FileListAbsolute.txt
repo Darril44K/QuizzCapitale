@@ -1,0 +1,14 @@
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\bin\Debug\net8.0\QuizzCapitale.exe
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\bin\Debug\net8.0\QuizzCapitale.deps.json
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\bin\Debug\net8.0\QuizzCapitale.runtimeconfig.json
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\bin\Debug\net8.0\QuizzCapitale.dll
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\bin\Debug\net8.0\QuizzCapitale.pdb
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.AssemblyInfoInputs.cache
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.AssemblyInfo.cs
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.csproj.CoreCompileInputs.cache
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.dll
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\refint\QuizzCapitale.dll
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.pdb
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\QuizzCapitale.genruntimeconfig.cache
+D:\Projet_C#\QuizzCapitaleCS\QuizzCapitale\obj\Debug\net8.0\ref\QuizzCapitale.dll
